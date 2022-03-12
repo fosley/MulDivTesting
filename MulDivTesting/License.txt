@@ -1,0 +1,5 @@
+The main program is open source, GPL licensing.
+
+The double128 library (double128Proj.dll and double128ProjCli.dll) is free for personal use, but requires a paid license for commercial use.
+Computations & Graphics, Inc. has the copyright. More information at their website:
+https://www.cg-inc.com/Product/Double128
